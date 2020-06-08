@@ -1,0 +1,143 @@
+* 
+{ 
+	margin: 0;
+	padding: 0;
+}
+
+a
+{
+	outline: none;
+	border: 0;
+}
+
+.pf
+{
+	position: fixed;
+}
+
+.pa
+{
+	position: absolute;
+}
+
+.pr
+{
+	position: relative;
+}
+
+.db
+{
+	display: block;
+}
+
+.dn
+{
+	display: none;
+}
+
+.di
+{
+	display: inline;
+	vertical-align: middle;
+}
+
+.dib
+{
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+	vertical-align: top;
+}
+
+.ma
+{
+	margin: 0 auto;
+}
+
+.oa
+{
+	overflow: auto;
+}
+
+.oh
+{
+	overflow: hidden;
+}
+
+.fl
+{
+	float: left;
+}
+
+.fr
+{
+float: right;
+font-size: 26px;
+line-height: 40px;
+text-align: center;
+}
+
+.tac
+{
+	text-align: center;
+}
+
+.ttu
+{
+	text-transform: uppercase;
+}
+
+.ttl
+{
+	text-transform: lowercase;
+}
+
+.wsn
+{
+	white-space: nowrap;
+}
+
+.w
+{
+	width: 100%;
+}
+
+.dt
+{
+	display: table;
+}
+
+.dth
+{
+	display: table-header-group;
+}
+
+.dtr
+{
+	display: table-row-group;
+}
+
+.dtf
+{
+	display: table-footer-group;
+}
+
+li
+{
+	list-style: disc inside none;
+    margin-bottom: 5px;
+}
+
+img
+{
+	border: 0;
+}
+
+.b
+{
+	border: solid 1px black;
+}
+
+.clear {
+	clear: both;
+}
